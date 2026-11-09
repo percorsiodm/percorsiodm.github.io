@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.percorsiodm.twa",
+        "sha256_cert_fingerprints": ["5A:90:32:B2:12:5F:DA:43:20:BF:7B:6D:72:0F:5D:4F:BD:2A:17:21:0F:02:BB:D4:8F:79:FA:E4:20:13:69:A5"]
+      }
+    }]
